@@ -48,7 +48,7 @@ public class CatalogoLivros {
     }
 
     public static void main(String[] args) {
-        // Criando uma instância do catálogo de livros
+
         CatalogoLivros catalogoLivros = new CatalogoLivros();
 
         // Adicionando livros ao catálogo
